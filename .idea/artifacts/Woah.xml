@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Woah">
+    <output-path>$PROJECT_DIR$/../../../Halloween/plugins</output-path>
+    <root id="archive" name="Woah.jar">
+      <element id="module-output" name="WOAH" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

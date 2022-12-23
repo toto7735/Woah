@@ -1,0 +1,18 @@
+name: Woah
+version: 1.0
+author: toto7735
+main: woah.Woah
+commands:
+  starttricking:
+    aliases: [st]
+  pasteschematic:
+    aliases: [ps, pasteschem]
+  tellthem:
+    aliases: [tellthey, td]
+  finish:
+    aliases: [f]
+  stopbehind:
+    aliases: [s]
+  strikelightning:
+    aliases: [sl]
+api-version: 1.19
